@@ -9,8 +9,17 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href=#llm>LLM</a></li>
   </ol>
 </details>
+
+## LLM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-24**|**Bridging the Early Science Gap with Artificial Intelligence: Evaluating Large Language Models as Tools for Early Childhood Science Education**|Annika Bush et.al.|[2501.01192](http://arxiv.org/abs/2501.01192)|null|
+
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
