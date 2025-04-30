@@ -93,13 +93,26 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
-    search_engine = arxiv.Search(
+    # search_engine = arxiv.Search(
+    #     query = query,
+    #     max_results = max_results,
+    #     sort_by = arxiv.SortCriterion.SubmittedDate
+    # )
+    # Construct the default API client.
+    client = arxiv.Client()
+
+    # Search for the 10 most recent articles matching the keyword "quantum."
+    search = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    # results = client.results(search)
+    results = client.results(search)
+
+    all_results = list(results)
+    for result in all_results:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
