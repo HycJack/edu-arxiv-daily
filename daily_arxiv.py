@@ -100,8 +100,6 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # )
     # Construct the default API client.
     client = arxiv.Client()
-
-    # Search for the 10 most recent articles matching the keyword "quantum."
     search = arxiv.Search(
         query = query,
         max_results = max_results,
