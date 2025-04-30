@@ -1,19 +1,19 @@
-title: Edu Arxiv Daily    
-description: Automatically Update Edu Papers Daily using Github Actions (Update Every 8th hours)      
+title: Edu Arxiv Daily
+description: Automatically Update Edu Papers Daily using Github Actions (Update Every 8th hours)
 show_downloads: true
 
 github:
-  zip_url: https://github.com/HycJack/edu-arxiv-daily        
-  another_url: https://github.com/HycJack/edu-arxiv-daily        
+  zip_url: https://github.com/HycJack/edu-arxiv-daily
+  another_url: https://github.com/HycJack/edu-arxiv-daily
 
 ## add remote theme
-remote_theme: jekyll/minima@v2.5.1    
+remote_theme: jekyll/minima@v2.5.1
 
 # minima:
-skin: dark  
+skin: dark
 social_links:
-  twitter: HycJack  
-  github: HycJack    
+  twitter: HycJack
+  github: HycJack
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
