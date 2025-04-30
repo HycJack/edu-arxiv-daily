@@ -1,7 +1,7 @@
 import os
 import re
 import json
-import arxiv
+import my_arxiv as arxiv
 import yaml
 import logging
 import argparse
@@ -99,10 +99,10 @@ def get_daily_papers(topic,query="education", max_results=2):
     #     sort_by = arxiv.SortCriterion.SubmittedDate
     # )
     # Construct the default API client.
-    client = arxiv.Client()
+    client = arxiv.Client(page_size=100)
     search = arxiv.Search(
-        query = "LLM AND Education AND submittedDate:[20230101 TO 20250403]",
-        max_results = 1000,
+        query = query,#"LLM AND Education AND submittedDate:[20230101 TO 20250403]",
+        max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
