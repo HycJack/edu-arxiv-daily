@@ -84,7 +84,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="education", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -101,8 +101,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # Construct the default API client.
     client = arxiv.Client()
     search = arxiv.Search(
-        query = query,
-        max_results = max_results,
+        query = "LLM+AND+Education+AND+submittedDate:[202301010600+TO+202504030600]",
+        max_results = 1000,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
