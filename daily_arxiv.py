@@ -101,7 +101,7 @@ def get_daily_papers(topic,query="education", max_results=2):
     # Construct the default API client.
     client = arxiv.Client()
     search = arxiv.Search(
-        query = "LLM+AND+Education+AND+submittedDate:[202301010600+TO+202504030600]",
+        query = "LLM AND Education AND submittedDate:[20230101 TO 20250403]",
         max_results = 1000,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
