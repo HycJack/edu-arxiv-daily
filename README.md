@@ -3,7 +3,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<p align=right>(<a href=#updated-on-20231011>back to top</a>)</p>
+## Updated on 2025.04.30
+> Usage instructions: [here](./docs/README.md#usage)
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+  </ol>
+</details>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
