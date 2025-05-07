@@ -37,7 +37,7 @@ def load_config(config_file:str) -> dict:
                     ret += (QUOTA + filter + QUOTA)   
                 if idx != len(filters) - 1:
                     ret += OR
-            return ret
+            return ret.replace('\"','')
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
         return keywords
