@@ -27,6 +27,16 @@
 |**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
 |**2025-05-06**|**STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game**|Eric Zhou et.al.|[2505.03547](http://arxiv.org/abs/2505.03547)|null|
 |**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
+|**2025-05-06**|**Validating the Effectiveness of a Large Language Model-based Approach for Identifying Children's Development across Various Free Play Settings in Kindergarten**|Yuanyuan Yang et.al.|[2505.03369](http://arxiv.org/abs/2505.03369)|null|
+|**2025-05-06**|**The Impact of Large Language Models on K-12 Education in Rural India: A Thematic Analysis of Student Volunteer's Perspectives**|Harshita Goyal et.al.|[2505.03163](http://arxiv.org/abs/2505.03163)|null|
+|**2025-05-05**|**34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery**|Yoel Zimmermann et.al.|[2505.03049](http://arxiv.org/abs/2505.03049)|null|
+|**2025-05-05**|**Evaluating the Impact of AI-Powered Audiovisual Personalization on Learner Emotion, Focus, and Learning Outcomes**|George Xi Wang et.al.|[2505.03033](http://arxiv.org/abs/2505.03033)|null|
+|**2025-05-05**|**Exploring LLM-Powered Role and Action-Switching Pedagogical Agents for History Education in Virtual Reality**|Zihao Zhu et.al.|[2505.02699](http://arxiv.org/abs/2505.02699)|null|
+|**2025-05-05**|**AI Standardized Patient Improves Human Conversations in Advanced Cancer Care**|Kurtis Haut et.al.|[2505.02694](http://arxiv.org/abs/2505.02694)|null|
+|**2025-05-05**|**SymbioticRAG: Enhancing Document Intelligence Through Human-LLM Symbiotic Collaboration**|Qiang Sun et.al.|[2505.02418](http://arxiv.org/abs/2505.02418)|null|
+|**2025-05-04**|**Generative AI in clinical practice: novel qualitative evidence of risk and responsible use of Google's NotebookLM**|Max Reuter et.al.|[2505.01955](http://arxiv.org/abs/2505.01955)|null|
+|**2025-05-03**|**LookAlike: Consistent Distractor Generation in Math MCQs**|Nisarg Parikh et.al.|[2505.01903](http://arxiv.org/abs/2505.01903)|null|
+|**2025-05-03**|**Interactive authoring of outcome-oriented lesson plans for immersive Virtual Reality training**|Ananya Ipsita et.al.|[2505.01886](http://arxiv.org/abs/2505.01886)|null|
 |**2025-04-28**|**Enhancing Systematic Reviews with Large Language Models: Using GPT-4 and Kimi**|Dandan Chen Kaptur et.al.|[2504.20276](http://arxiv.org/abs/2504.20276)|null|
 |**2025-04-25**|**Evolution of AI in Education: Agentic Workflows**|Firuz Kamalov et.al.|[2504.20082](http://arxiv.org/abs/2504.20082)|null|
 |**2025-04-25**|**From Prompts to Propositions: A Logic-Based Lens on Student-LLM Interactions**|Ali Alfageeh et.al.|[2504.18691](http://arxiv.org/abs/2504.18691)|null|
