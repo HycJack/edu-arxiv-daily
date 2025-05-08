@@ -13,7 +13,7 @@ publish_wechat: False
 
 # file paths
 json_readme_path: './docs/edu-arxiv-daily.json'
-json_gitpage_path: './docs/edu-arxiv-daily.json'
+json_gitpage_path: './docs/edu-arxiv-daily-web.json'
 json_wechat_path: './docs/edu-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
