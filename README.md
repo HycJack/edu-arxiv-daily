@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
+|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
+|**2025-05-14**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598](http://arxiv.org/abs/2505.09598)|null|
+|**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595](http://arxiv.org/abs/2505.09595)|null|
+|**2025-05-14**|**Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media**|Yuchen Wu et.al.|[2505.09583](http://arxiv.org/abs/2505.09583)|null|
+|**2025-05-14**|**Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach**|Shannon Lodoen et.al.|[2505.09576](http://arxiv.org/abs/2505.09576)|null|
+|**2025-05-14**|**MIGRATION-BENCH: Repository-Level Code Migration Benchmark from Java 8**|Linbo Liu et.al.|[2505.09569](http://arxiv.org/abs/2505.09569)|null|
+|**2025-05-14**|**Partnership through Play: Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy**|Nisha Devasia et.al.|[2505.09509](http://arxiv.org/abs/2505.09509)|null|
+|**2025-05-14**|**Layered Unlearning for Adversarial Relearning**|Timothy Qian et.al.|[2505.09500](http://arxiv.org/abs/2505.09500)|null|
+|**2025-05-14**|**Card Sorting Simulator: Augmenting Design of Logical Information Architectures with Large Language Models**|Eduard Kuric et.al.|[2505.09478](http://arxiv.org/abs/2505.09478)|null|
 |**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783](http://arxiv.org/abs/2505.08783)|null|
 |**2025-05-13**|**SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models**|Suhan Guo et.al.|[2505.08768](http://arxiv.org/abs/2505.08768)|null|
 |**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|
