@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-21**|**Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering**|Hwan Chang et.al.|[2505.15805](http://arxiv.org/abs/2505.15805)|null|
 |**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804](http://arxiv.org/abs/2505.15804)|null|
 |**2025-05-21**|**Reverse Engineering Human Preferences with Reinforcement Learning**|Lisa Alazraki et.al.|[2505.15795](http://arxiv.org/abs/2505.15795)|null|
-|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
+|**2025-05-22**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
 |**2025-05-21**|**Long-Form Information Alignment Evaluation Beyond Atomic Facts**|Danna Zheng et.al.|[2505.15792](http://arxiv.org/abs/2505.15792)|null|
 |**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
 |**2025-05-21**|**Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space**|Zhen Zhang et.al.|[2505.15778](http://arxiv.org/abs/2505.15778)|**[link](https://github.com/eric-ai-lab/soft-thinking)**|
