@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246](http://arxiv.org/abs/2505.20246)|null|
+|**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245](http://arxiv.org/abs/2505.20245)|null|
+|**2025-05-26**|**It's High Time: A Survey of Temporal Information Retrieval and Question Answering**|Bhawna Piryani et.al.|[2505.20243](http://arxiv.org/abs/2505.20243)|null|
+|**2025-05-26**|**RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models**|Nguyen Thach et.al.|[2505.20242](http://arxiv.org/abs/2505.20242)|null|
+|**2025-05-26**|**DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning**|Qi Cao et.al.|[2505.20241](http://arxiv.org/abs/2505.20241)|null|
+|**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236](http://arxiv.org/abs/2505.20236)|null|
+|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|null|
+|**2025-05-26**|**FT-Boosted SV: Towards Noise Robust Speaker Verification for English Speaking Classroom Environments**|Saba Tabatabaee et.al.|[2505.20222](http://arxiv.org/abs/2505.20222)|null|
+|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|null|
+|**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211](http://arxiv.org/abs/2505.20211)|null|
 |**2025-05-23**|**The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas**|Ya Wu et.al.|[2505.18154](http://arxiv.org/abs/2505.18154)|null|
 |**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
 |**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
