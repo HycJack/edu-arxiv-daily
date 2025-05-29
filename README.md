@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
 |**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|**[link](https://github.com/thunlp-mt/extagents)**|
 |**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
 |**2025-05-27**|**Words Like Knives: Backstory-Personalized Modeling and Detection of Violent Communication**|Jocelyn Shen et.al.|[2505.21451](http://arxiv.org/abs/2505.21451)|null|
 |**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246](http://arxiv.org/abs/2505.20246)|null|
@@ -1172,7 +1172,7 @@
 |**2023-05-29**|**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**|Terry Yue Zhuo et.al.|[2301.12867](http://arxiv.org/abs/2301.12867)|null|
 |**2023-03-27**|**Opportunities and Challenges in Neural Dialog Tutoring**|Jakub Macina et.al.|[2301.09919](http://arxiv.org/abs/2301.09919)|**[link](https://github.com/eth-nlped/dialog-tutoring)**|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
