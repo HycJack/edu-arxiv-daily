@@ -31,7 +31,7 @@ layout: default
 |**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
 |**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
 |**2025-05-28**|**On Learning Verifiers for Chain-of-Thought Reasoning**|Maria-Florina Balcan et.al.|[2505.22650](http://arxiv.org/abs/2505.22650)|null|
-|**2025-05-28**|**Characterizing Bias: Benchmarking Large Language Models in Simplified versus Traditional Chinese**|Hanjia Lyu et.al.|[2505.22645](http://arxiv.org/abs/2505.22645)|null|
+|**2025-05-28**|**Characterizing Bias: Benchmarking Large Language Models in Simplified versus Traditional Chinese**|Hanjia Lyu et.al.|[2505.22645](http://arxiv.org/abs/2505.22645)|**[link](https://github.com/brucelyu17/sc-tc-bench)**|
 |**2025-05-28**|**Learning Composable Chains-of-Thought**|Fangcong Yin et.al.|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
 |**2025-05-28**|**Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**|Ziling Cheng et.al.|[2505.22630](http://arxiv.org/abs/2505.22630)|null|
 |**2025-05-27**|**How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective**|Shimao Zhang et.al.|[2505.21505](http://arxiv.org/abs/2505.21505)|null|
@@ -44,31 +44,31 @@ layout: default
 |**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|**[link](https://github.com/thunlp-mt/extagents)**|
 |**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
 |**2025-05-27**|**Words Like Knives: Backstory-Personalized Modeling and Detection of Violent Communication**|Jocelyn Shen et.al.|[2505.21451](http://arxiv.org/abs/2505.21451)|null|
-|**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246](http://arxiv.org/abs/2505.20246)|null|
-|**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245](http://arxiv.org/abs/2505.20245)|null|
+|**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246](http://arxiv.org/abs/2505.20246)|**[link](https://github.com/charlesq9/histagent)**|
+|**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245](http://arxiv.org/abs/2505.20245)|**[link](https://github.com/rui9812/knowtrace)**|
 |**2025-05-26**|**It's High Time: A Survey of Temporal Information Retrieval and Question Answering**|Bhawna Piryani et.al.|[2505.20243](http://arxiv.org/abs/2505.20243)|null|
 |**2025-05-26**|**RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models**|Nguyen Thach et.al.|[2505.20242](http://arxiv.org/abs/2505.20242)|null|
 |**2025-05-26**|**DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning**|Qi Cao et.al.|[2505.20241](http://arxiv.org/abs/2505.20241)|null|
 |**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236](http://arxiv.org/abs/2505.20236)|null|
-|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|null|
+|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|**[link](https://github.com/cmu-flame/flame-moe)**|
 |**2025-05-26**|**FT-Boosted SV: Towards Noise Robust Speaker Verification for English Speaking Classroom Environments**|Saba Tabatabaee et.al.|[2505.20222](http://arxiv.org/abs/2505.20222)|null|
-|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|null|
+|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
 |**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211](http://arxiv.org/abs/2505.20211)|null|
 |**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
 |**2025-05-26**|**StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs**|Jialin Yang et.al.|[2505.20139](http://arxiv.org/abs/2505.20139)|null|
-|**2025-05-26**|**Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers**|Zhengliang Shi et.al.|[2505.20128](http://arxiv.org/abs/2505.20128)|null|
+|**2025-05-26**|**Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers**|Zhengliang Shi et.al.|[2505.20128](http://arxiv.org/abs/2505.20128)|**[link](https://github.com/mangopy/searchlm)**|
 |**2025-05-26**|**Agentic AI Process Observability: Discovering Behavioral Variability**|Fabiana Fournier et.al.|[2505.20127](http://arxiv.org/abs/2505.20127)|null|
-|**2025-05-27**|**TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent**|Dominik Meier et.al.|[2505.20118](http://arxiv.org/abs/2505.20118)|null|
+|**2025-05-27**|**TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent**|Dominik Meier et.al.|[2505.20118](http://arxiv.org/abs/2505.20118)|**[link](https://github.com/worta/trojansteno)**|
 |**2025-05-26**|**Named Entity Recognition in Historical Italian: The Case of Giacomo Leopardi's Zibaldone**|Cristian Santini et.al.|[2505.20113](http://arxiv.org/abs/2505.20113)|null|
 |**2025-05-26**|**ResSVD: Residual Compensated SVD for Large Language Model Compression**|Haolei Bai et.al.|[2505.20112](http://arxiv.org/abs/2505.20112)|null|
 |**2025-05-26**|**Language-Agnostic Suicidal Risk Detection Using Large Language Models**|June-Woo Kim et.al.|[2505.20109](http://arxiv.org/abs/2505.20109)|null|
 |**2025-05-26**|**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**|Zuyao Chen et.al.|[2505.20106](http://arxiv.org/abs/2505.20106)|null|
 |**2025-05-27**|**Adaptive Deep Reasoning: Triggering Deep Thinking When Needed**|Yunhao Wang et.al.|[2505.20101](http://arxiv.org/abs/2505.20101)|null|
 |**2025-05-23**|**The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas**|Ya Wu et.al.|[2505.18154](http://arxiv.org/abs/2505.18154)|null|
-|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|**[link](https://github.com/mbzuai-oryx/fannorflop)**|
 |**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
 |**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
-|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|**[link](https://github.com/kazemf78/Gaming-Tool-Preferences)**|
 |**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128](http://arxiv.org/abs/2505.18128)|null|
 |**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
 |**2025-05-23**|**ProgRM: Build Better GUI Agents with Progress Rewards**|Danyang Zhang et.al.|[2505.18121](http://arxiv.org/abs/2505.18121)|null|
@@ -79,7 +79,7 @@ layout: default
 |**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010](http://arxiv.org/abs/2505.17010)|**[link](https://github.com/google-deepmind/thunnini)**|
 |**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
 |**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998](http://arxiv.org/abs/2505.16998)|**[link](https://github.com/jiangjin1999/formaleval)**|
-|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997](http://arxiv.org/abs/2505.16997)|null|
+|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997](http://arxiv.org/abs/2505.16997)|**[link](https://github.com/masworks/x-mas)**|
 |**2025-05-22**|**DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization**|Chao Zhang et.al.|[2505.16995](http://arxiv.org/abs/2505.16995)|null|
 |**2025-05-22**|**$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994](http://arxiv.org/abs/2505.16994)|**[link](https://github.com/yryangang/rrec)**|
 |**2025-05-22**|**MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2505.16988](http://arxiv.org/abs/2505.16988)|**[link](https://github.com/masworks/maslab)**|
@@ -92,7 +92,7 @@ layout: default
 |**2025-05-21**|**Long-Form Information Alignment Evaluation Beyond Atomic Facts**|Danna Zheng et.al.|[2505.15792](http://arxiv.org/abs/2505.15792)|null|
 |**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
 |**2025-05-21**|**Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space**|Zhen Zhang et.al.|[2505.15778](http://arxiv.org/abs/2505.15778)|**[link](https://github.com/eric-ai-lab/soft-thinking)**|
-|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
+|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|**[link](https://github.com/Xnhyacinth/HyCo2)**|
 |**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
 |**2025-05-21**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
 |**2025-05-20**|**UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**|Xiaojie Gu et.al.|[2505.14679](http://arxiv.org/abs/2505.14679)|**[link](https://github.com/xiaojiegu/ultraedit)**|
