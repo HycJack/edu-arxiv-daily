@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
+|**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
+|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963](http://arxiv.org/abs/2506.10963)|null|
+|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/abs/2506.10960)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
+|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|null|
+|**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
+|**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991](http://arxiv.org/abs/2506.09991)|null|
