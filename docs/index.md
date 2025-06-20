@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning**|Yuhui Shi et.al.|[2506.15683](http://arxiv.org/abs/2506.15683)|null|
+|**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al.|[2506.15681](http://arxiv.org/abs/2506.15681)|null|
+|**2025-06-18**|**CC-LEARN: Cohort-based Consistency Learning**|Xiao Ye et.al.|[2506.15662](http://arxiv.org/abs/2506.15662)|null|
+|**2025-06-18**|**PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**|Wenhao Li et.al.|[2506.15656](http://arxiv.org/abs/2506.15656)|null|
+|**2025-06-18**|**deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses**|Georgios Androutsopoulos et.al.|[2506.15648](http://arxiv.org/abs/2506.15648)|null|
+|**2025-06-18**|**The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy**|James Weichert et.al.|[2506.15639](http://arxiv.org/abs/2506.15639)|null|
+|**2025-06-18**|**Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability**|Yusuke Sakai et.al.|[2506.15629](http://arxiv.org/abs/2506.15629)|null|
+|**2025-06-18**|**The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games**|Lyle Goodyear et.al.|[2506.15624](http://arxiv.org/abs/2506.15624)|null|
+|**2025-06-18**|**LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning**|Gabrel J. Perin et.al.|[2506.15606](http://arxiv.org/abs/2506.15606)|null|
+|**2025-06-18**|**LiteGD: Lightweight and dynamic GPU Dispatching for Large-scale Heterogeneous Clusters**|Kunming Zhang et.al.|[2506.15595](http://arxiv.org/abs/2506.15595)|null|
 |**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757](http://arxiv.org/abs/2506.14757)|null|
 |**2025-06-17**|**Unique support from identity-based groups: Professional networks of women and LGBTQ+ physicists analyzed and compared by career sector**|Chase Hatcher et.al.|[2506.14752](http://arxiv.org/abs/2506.14752)|null|
 |**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
