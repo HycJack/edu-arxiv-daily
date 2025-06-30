@@ -58,7 +58,7 @@ layout: default
 |**2025-06-20**|**Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency**|Kathleen C. Fraser et.al.|[2506.17209](http://arxiv.org/abs/2506.17209)|null|
 |**2025-06-20**|**Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**|Matias Martinez et.al.|[2506.17208](http://arxiv.org/abs/2506.17208)|null|
 |**2025-06-20**|**Confidence Scoring for LLM-Generated SQL in Supply Chain Data Extraction**|Jiekai Ma et.al.|[2506.17203](http://arxiv.org/abs/2506.17203)|null|
-|**2025-06-20**|**Detecting LLM-Generated Short Answers and Effects on Learner Performance**|Shambhavi Bhushan et.al.|[2506.17196](http://arxiv.org/abs/2506.17196)|null|
+|**2025-06-20**|**Detecting LLM-Generated Short Answers and Effects on Learner Performance**|Shambhavi Bhushan et.al.|[2506.17196](http://arxiv.org/abs/2506.17196)|**[link](https://github.com/shambhavib20/ai-detection)**|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
 |**2025-06-20**|**The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making**|Abinitha Gourabathina et.al.|[2506.17163](http://arxiv.org/abs/2506.17163)|null|
 |**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144](http://arxiv.org/abs/2506.17144)|null|
@@ -82,15 +82,15 @@ layout: default
 |**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|**[link](https://github.com/dreadnode/airtbench-code)**|
 |**2025-06-17**|**Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality**|Yuto Harada et.al.|[2506.14681](http://arxiv.org/abs/2506.14681)|null|
 |**2025-06-17**|**Design an Editable Speech-to-Sign-Language Transformer System: A Human-Centered AI Approach**|Yingchao Li et.al.|[2506.14677](http://arxiv.org/abs/2506.14677)|null|
-|**2025-06-17**|**Issue Retrieval and Verification Enhanced Supplementary Code Comment Generation**|Yanzhen Zou et.al.|[2506.14649](http://arxiv.org/abs/2506.14649)|null|
+|**2025-06-17**|**Issue Retrieval and Verification Enhanced Supplementary Code Comment Generation**|Yanzhen Zou et.al.|[2506.14649](http://arxiv.org/abs/2506.14649)|**[link](https://github.com/iscomment/iscomment)**|
 |**2025-06-17**|**Passing the Turing Test in Political Discourse: Fine-Tuning LLMs to Mimic Polarized Social Media Comments**|. Pazzaglia et.al.|[2506.14645](http://arxiv.org/abs/2506.14645)|null|
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|**[link](https://github.com/liqiiiii/dllm-survey)**|
 |**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752](http://arxiv.org/abs/2506.13752)|**[link](https://github.com/umass-embodied-agi/budgetguidance)**|
 |**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/abs/2506.13746)|**[link](https://github.com/PsyberSecLab/Fine-Tuning-and-Explainability-for-Phishing-Detection)**|
-|**2025-06-16**|**LTRR: Learning To Rank Retrievers for LLMs**|To Eun Kim et.al.|[2506.13743](http://arxiv.org/abs/2506.13743)|null|
+|**2025-06-16**|**LTRR: Learning To Rank Retrievers for LLMs**|To Eun Kim et.al.|[2506.13743](http://arxiv.org/abs/2506.13743)|**[link](https://github.com/kimdanny/starlight-liverag)**|
 |**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734](http://arxiv.org/abs/2506.13734)|null|
 |**2025-06-16**|**Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2506.13727](http://arxiv.org/abs/2506.13727)|**[link](https://github.com/erfanhatefi/sparc3)**|
-|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|null|
+|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|**[link](https://github.com/langfengq/timemaster)**|
 |**2025-06-16**|**OneRec Technical Report**|Guorui Zhou et.al.|[2506.13695](http://arxiv.org/abs/2506.13695)|null|
 |**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692](http://arxiv.org/abs/2506.13692)|null|
 |**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685](http://arxiv.org/abs/2506.13685)|**[link](https://github.com/cloakless/flake-bench)**|
@@ -184,7 +184,7 @@ layout: default
 |**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
 |**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
 |**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Man Luo et.al.|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
-|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|**[link](https://github.com/metaagentx/opencaptchaworld)**|
 |**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|**[link](https://github.com/ceezh/silvr)**|
 |**2025-05-30**|**MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2505.24858](http://arxiv.org/abs/2505.24858)|**[link](https://github.com/yale-nlp/metafaith)**|
