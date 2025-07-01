@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385](http://arxiv.org/abs/2506.22385)|null|
 |**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
 |**2025-06-27**|**Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement**|Maryam Mousavian et.al.|[2506.22372](http://arxiv.org/abs/2506.22372)|null|
-|**2025-06-27**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
+|**2025-06-30**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
 |**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
 |**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
 |**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
@@ -1382,7 +1382,7 @@
 |**2023-05-29**|**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**|Terry Yue Zhuo et.al.|[2301.12867](http://arxiv.org/abs/2301.12867)|null|
 |**2023-03-27**|**Opportunities and Challenges in Neural Dialog Tutoring**|Jakub Macina et.al.|[2301.09919](http://arxiv.org/abs/2301.09919)|**[link](https://github.com/eth-nlped/dialog-tutoring)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
