@@ -7,16 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**STACK: Adversarial Attacks on LLM Safeguard Pipelines**|Ian R. McKenzie et.al.|[2506.24068](http://arxiv.org/abs/2506.24068)|null|
 |**2025-06-30**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|null|

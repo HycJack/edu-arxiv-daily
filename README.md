@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,9 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**STACK: Adversarial Attacks on LLM Safeguard Pipelines**|Ian R. McKenzie et.al.|[2506.24068](http://arxiv.org/abs/2506.24068)|null|
 |**2025-06-30**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|null|
@@ -1392,7 +1392,7 @@
 |**2023-05-29**|**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**|Terry Yue Zhuo et.al.|[2301.12867](http://arxiv.org/abs/2301.12867)|null|
 |**2023-03-27**|**Opportunities and Challenges in Neural Dialog Tutoring**|Jakub Macina et.al.|[2301.09919](http://arxiv.org/abs/2301.09919)|**[link](https://github.com/eth-nlped/dialog-tutoring)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
