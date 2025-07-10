@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-07-08**|**SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**|Jiale Lao et.al.|[2507.06192](http://arxiv.org/abs/2507.06192)|null|
 |**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185](http://arxiv.org/abs/2507.06185)|null|
 |**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**Large Language Models Predict Human Well-being -- But Not Equally Everywhere**|Pat Pataranutaporn et.al.|[2507.06141](http://arxiv.org/abs/2507.06141)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
@@ -1432,7 +1432,7 @@
 |**2023-05-29**|**Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity**|Terry Yue Zhuo et.al.|[2301.12867](http://arxiv.org/abs/2301.12867)|null|
 |**2023-03-27**|**Opportunities and Challenges in Neural Dialog Tutoring**|Jakub Macina et.al.|[2301.09919](http://arxiv.org/abs/2301.09919)|**[link](https://github.com/eth-nlped/dialog-tutoring)**|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
