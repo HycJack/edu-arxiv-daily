@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**Real-World Summarization: When Evaluation Reaches Its Limits**|Patrícia Schmidtová et.al.|[2507.11508](http://arxiv.org/abs/2507.11508)|null|
+|**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
+|**2025-07-15**|**REVA: Supporting LLM-Generated Programming Feedback Validation at Scale Through User Attention-based Adaptation**|Xiaohang Tang et.al.|[2507.11470](http://arxiv.org/abs/2507.11470)|null|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
 |**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
